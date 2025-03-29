@@ -1,2 +1,2 @@
-# Trying out 
- Contains various fun codes to try put 
+# Just something  
+ Contains various fun codes to try out 
