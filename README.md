@@ -1,2 +1,2 @@
-# Shruti.K
- A Rookie learner repo
+# Trying out 
+ Contains various fun codes to try put 
